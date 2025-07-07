@@ -1,5 +1,5 @@
 ##################
-How to Activate AVG Using License Key?
+Step-by-Step Guide to Activating AVG Using Your License Key
 ##################
 
 .. meta::
